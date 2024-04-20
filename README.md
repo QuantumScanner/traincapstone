@@ -1,4 +1,4 @@
 # traincapstone
 Train Capstone Project
 
-This is final train final project.
+This is train final capstone project.
